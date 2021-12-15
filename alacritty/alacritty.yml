@@ -1,0 +1,62 @@
+background_opacity: 0.85
+
+font:
+        normal:
+                family: Noto Sans Mono
+        size: 14
+colors:
+  # Default colors
+  primary:
+    background: '0x28212D'
+    foreground: '0xd3d0c8'
+
+  # Normal colors
+  normal:
+    black:   '0x2d2d2d'
+    red:     '0xf2777a'
+    green:   '0x99cc99'
+    yellow:  '0xffcc66'
+    blue:    '0x6699cc'
+    magenta: '0xcc99cc'
+    cyan:    '0x66cccc'
+    white:   '0xd3d0c8'
+
+  # Bright colors
+  bright:
+    black:   '0x747369'
+    red:     '0xf2777a'
+    green:   '0x99cc99'
+    yellow:  '0xffcc66'
+    blue:    '0x6699cc'
+    magenta: '0xcc99cc'
+    cyan:    '0x66cccc'
+    white:   '0xf2f0ec'
+
+#colors:
+#  # Default colors
+#  primary:
+#    background: '0x0e1b1e'
+#    foreground: '0x93a1a1'
+#
+#  # Normal colors
+#  normal:
+#    black:   '0x002b36'
+#    red:     '0xdc322f'
+#    green:   '0x859900'
+#    yellow:  '0xb58900'
+#    blue:    '0x268bd2'
+#    magenta: '0x6c71c4'
+#    cyan:    '0x2aa198'
+#    white:   '0x93a1a1'
+#
+#  # Bright colors
+#  bright:
+#    black:   '0x657b83'
+#    red:     '0xdc322f'
+#    green:   '0x859900'
+#    yellow:  '0xb58900'
+#    blue:    '0x268bd2'
+#    magenta: '0x6c71c4'
+#    cyan:    '0x2aa198'
+#    white:   '0xfdf6e3'
+#

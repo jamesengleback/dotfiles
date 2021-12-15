@@ -1,0 +1,8 @@
+set dark-mode=true
+set home-page=duckduckgo.com
+set download-path=~/Downloads
+nmap d <C-d>
+nmap u <C-u>
+set font-size=20
+set monospace-font-size=20
+set hint-keys=sadfjklewcmpgh

@@ -3,7 +3,7 @@ background_opacity: 0.85
 font:
         normal:
                 family: Noto Sans Mono
-        size: 14
+        size: 12
 colors:
   # Default colors
   primary:

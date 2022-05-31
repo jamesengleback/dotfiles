@@ -1,4 +1,5 @@
 #!/bin/sh
+sudo apt update && sudo apt install libx11-dev libxft-dev -y
 mkdir ~/src
 cd ~/src
 git clone https://github.com/jamesengleback/dwm

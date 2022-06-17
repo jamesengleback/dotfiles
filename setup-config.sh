@@ -6,6 +6,7 @@ done
 
 cp config/bashrc $HOME/.bashrc
 
+# dwm stuff
 mkdir 		 $HOME/scripts
 cp init.sh 	 $HOME/scripts
 cp status-bar.sh $HOME/scripts

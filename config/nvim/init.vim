@@ -10,4 +10,7 @@ Plug 'maxboisvert/vim-simple-complete'
 Plug 'morhetz/gruvbox'
 call plug#end()
 
-"colorscheme gruvbox
+colorscheme gruvbox
+set colorcolumn=80
+nmap <F1> <Esc>
+imap <F1> <Esc>

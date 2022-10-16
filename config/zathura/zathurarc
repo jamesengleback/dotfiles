@@ -3,5 +3,5 @@ map o zoom out
 map d scroll half-down
 map u scroll half-up
 map s adjust_window width
-set recolor-darkcolor \#94BFF3
-set recolor-lightcolor \#1E2320
+set recolor-darkcolor \#88AFFF
+set recolor-lightcolor \#0F100F

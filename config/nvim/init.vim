@@ -11,6 +11,7 @@ Plug 'morhetz/gruvbox'
 call plug#end()
 
 colorscheme gruvbox
+hi Normal ctermbg=none guibg=none
 set colorcolumn=80
 nmap <F1> <Esc>
 imap <F1> <Esc>
